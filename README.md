@@ -39,8 +39,7 @@ Below are examples of how to use the project to generate visualizations:
 
 ```
 # Load your dataset
-df = pd.read_csv('Resources/m160-hw-dataset.csv', encoding='utf-8')
-cleaned_data = df.dropna()  # Assuming a basic data cleaning step
+cleaned_data = pd.read_csv('Resources/cleaned_data.csv', encoding='utf-8')
 ```
 
 Distribution of Credit Scores:
