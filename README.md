@@ -15,7 +15,7 @@ The Financial Data Analysis Project aims to provide a detailed analysis of finan
 
 To install and set up the Financial Data Analysis Project, follow these instructions:
 ```bash
-pip install pandas seaborn matplotlib scipy seaborn_qqplot 
+pip install pandas numpy seaborn matplotlib scipy seaborn_qqplot 
 ```
 
 ### Prerequisites
@@ -29,7 +29,7 @@ To use this project, follow these steps:
 
   1. Clone the repository to your local machine.
   2. Navigate to the project directory.
-  3. Ensure your dataset is in the correct location. This project uses m160-hw-dataset.csv located in the Resources directory.
+  3. Ensure your dataset is in the correct location. This project uses m160-hw-dataset.csv located in the Resources folder.
   4. Run the main analysis script to generate visualizations and analysis reports.
       
 # Example:
