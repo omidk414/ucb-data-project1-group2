@@ -6,6 +6,7 @@
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Examples](#examples)
+5. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -68,3 +69,6 @@ plt.title('Distribution of Current Loan Amount')
 plt.ylabel('Count')
 plt.show()
 ```
+### Acknowledgements
+
+Special thanks to the Elias, Brian and Karen for their guidance on the project.
