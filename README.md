@@ -2,11 +2,16 @@
 
 ## Table of Contents
 
-1. [Introduction](#introduction)
-2. [Installation](#installation)
-3. [Usage](#usage)
-4. [Examples](#examples)
-5. [Acknowledgements](#acknowledgements)
+- [Financial Data Analysis Project](#financial-data-analysis-project)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Installation](#installation)
+    - [Prerequisites](#prerequisites)
+    - [Usage](#usage)
+    - [Dataset](#dataset)
+- [Example:](#example)
+    - [Collaboration](#collaboration)
+    - [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -24,6 +29,8 @@ pip install pandas numpy seaborn matplotlib scipy seaborn_qqplot
 Python 3.x
 pip (Python package installer)
 
+Seaborn and SciPy Libraries
+
 ### Usage
 
 To use this project, follow these steps:
@@ -32,6 +39,9 @@ To use this project, follow these steps:
   2. Navigate to the project directory.
   3. Ensure your dataset is in the correct location. This project uses m160-hw-dataset.csv located in the Resources folder.
   4. Run the main analysis script to generate visualizations and analysis reports.
+
+### Dataset 
+- m160-hw-dataset.csv (https://github.com/scetx/datax/blob/master/01-data-x-fundamentals/m160-titanic/m160-hw-dataset.csv) 
       
 # Example:
 Below are examples of how to use the project to generate visualizations:
@@ -69,6 +79,12 @@ plt.title('Distribution of Current Loan Amount')
 plt.ylabel('Count')
 plt.show()
 ```
-### Acknowledgements
+### Collaboration
+Madison Bethke - madisonbethke25@gmai.com
+Weibin He - wayne.hwb@gmail.com
+Gursimran Kaur - kaursimran081999@gmail.com
+Omid Khan - omidk414@gmail.com
+Evan Wall - ewall@escoffier.edu
 
+### Acknowledgements
 Special thanks to the Elias, Brian and Karen for their guidance on the project.
