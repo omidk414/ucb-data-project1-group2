@@ -1,13 +1,12 @@
 # Financial Data Analysis Project
 
-A brief description of what your project does and its purpose.
-
 ## Table of Contents
 
 1. [Introduction](#introduction)
 2. [Installation](#installation)
 3. [Usage](#usage)
 4. [Examples](#examples)
+5. [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -17,7 +16,7 @@ The Financial Data Analysis Project aims to provide a detailed analysis of finan
 
 To install and set up the Financial Data Analysis Project, follow these instructions:
 ```bash
-pip install pandas seaborn matplotlib scipy seaborn_qqplot 
+pip install pandas numpy seaborn matplotlib scipy seaborn_qqplot 
 ```
 
 ### Prerequisites
@@ -31,7 +30,7 @@ To use this project, follow these steps:
 
   1. Clone the repository to your local machine.
   2. Navigate to the project directory.
-  3. Ensure your dataset is in the correct location. This project uses m160-hw-dataset.csv located in the Resources directory.
+  3. Ensure your dataset is in the correct location. This project uses m160-hw-dataset.csv located in the Resources folder.
   4. Run the main analysis script to generate visualizations and analysis reports.
       
 # Example:
@@ -70,3 +69,6 @@ plt.title('Distribution of Current Loan Amount')
 plt.ylabel('Count')
 plt.show()
 ```
+### Acknowledgements
+
+Special thanks to the Elias, Brian and Karen for their guidance on the project.
