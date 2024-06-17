@@ -9,7 +9,7 @@
     - [Prerequisites](#prerequisites)
     - [Usage](#usage)
     - [Dataset](#dataset)
-- [Example:](#example)
+    - [Example:](#example)
     - [Collaboration](#collaboration)
     - [Acknowledgements](#acknowledgements)
 
