@@ -41,7 +41,8 @@ To use this project, follow these steps:
   4. Run the main analysis script to generate visualizations and analysis reports.
 
 ### Dataset 
-- m160-hw-dataset.csv (https://github.com/scetx/datax/blob/master/01-data-x-fundamentals/m160-titanic/m160-hw-dataset.csv) 
+Link to retrieve original dataset:
+- [m160-hw-dataset.csv](https://github.com/scetx/datax/blob/master/01-data-x-fundamentals/m160-titanic/m160-hw-dataset.csv) 
       
 # Example:
 Below are examples of how to use the project to generate visualizations:
