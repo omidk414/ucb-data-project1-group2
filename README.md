@@ -84,7 +84,7 @@ Madison Bethke - madisonbethke25@gmai.com - MadisonBethke\
 Weibin He - wayne.hwb@gmail.com - dailynomore\
 Gursimran Kaur - kaursimran081999@gmail.com - SimranBoparai\
 Omid Khan - omidk414@gmail.com - omidk414\
-Evan Wall - ewall@escoffier.edu - Ewall24\
+Evan Wall - ewall@escoffier.edu - Ewall24
 
 ### Acknowledgements
 Special thanks to the Elias, Brian and Karen for their guidance on the project.
