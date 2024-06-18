@@ -10,8 +10,8 @@
     - [Usage](#usage)
     - [Dataset](#dataset)
     - [Example:](#example)
-    - [Collaboration](#collaboration)
-    - [Acknowledgements](#acknowledgements)
+  - [Collaboration](#collaboration)
+  - [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -81,7 +81,7 @@ plt.ylabel('Count')
 plt.show()
 ```
 ### Collaboration
-Madison Bethke - madisonbethke25@gmai.com - MadisonBethke\
+Madison Bethke - madisonbethke25@gmail.com - MadisonBethke\
 Weibin He - wayne.hwb@gmail.com - dailynomore\
 Gursimran Kaur - kaursimran081999@gmail.com - SimranBoparai\
 Omid Khan - omidk414@gmail.com - omidk414\
