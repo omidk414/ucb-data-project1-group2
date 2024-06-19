@@ -72,7 +72,7 @@ Below are examples of how to use the project to generate visualizations:
 cleaned_data = pd.read_csv('Resources/cleaned_data.csv', encoding='utf-8')
 ```
 
-Hexbin Plot for Annual Income vs Credit Score for all of the Loan Status data
+- Hexbin Plot for Annual Income vs Credit Score for all of the Loan Status data
 ```
 plt.figure(figsize=(10, 6))
 plt.hexbin(cleaned_data['Annual Income'], cleaned_data['Credit Score'], gridsize=30, cmap='Blues', mincnt=1)
@@ -85,7 +85,7 @@ plt.gca().set_xticklabels(['{:.1f}M'.format(x / 1e6) for x in xticks])
 plt.show()
 ```
 
-Color Gradient by Density
+- Color Gradient by Density
 ```
 plt.figure(figsize=(10, 6))
 sns.kdeplot(x=cleaned_data['Annual Income'], y=cleaned_data['Credit Score'], cmap='Blues', shade=True, thresh=0.05)
@@ -97,7 +97,7 @@ plt.gca().set_xticklabels(['{:.1f}M'.format(x / 1e6) for x in xticks])
 plt.show()
 ```
 
-Scatter Plot with Different Colors for Loan Status
+- Scatter Plot with Different Colors for Loan Status
 ```
 charged_off_data = cleaned_data[cleaned_data['Loan Status'] == 'Charged Off'].sample(n=250, random_state=1)
 fully_paid_data = cleaned_data[cleaned_data['Loan Status'] == 'Fully Paid'].sample(n=250, random_state=1)
