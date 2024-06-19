@@ -9,9 +9,9 @@
     - [Prerequisites](#prerequisites)
     - [Usage](#usage)
     - [Dataset](#dataset)
-- [Example:](#example)
-    - [Collaboration](#collaboration)
-    - [Acknowledgements](#acknowledgements)
+    - [Example:](#example)
+  - [Collaboration](#collaboration)
+  - [Acknowledgements](#acknowledgements)
 
 ## Introduction
 
@@ -41,7 +41,8 @@ To use this project, follow these steps:
   4. Run the main analysis script to generate visualizations and analysis reports.
 
 ### Dataset 
-- m160-hw-dataset.csv (https://github.com/scetx/datax/blob/master/01-data-x-fundamentals/m160-titanic/m160-hw-dataset.csv) 
+Link to retrieve original dataset:
+- [m160-hw-dataset.csv](https://github.com/scetx/datax/blob/master/01-data-x-fundamentals/m160-titanic/m160-hw-dataset.csv) 
       
 # Example:
 Below are examples of how to use the project to generate visualizations:
@@ -80,11 +81,11 @@ plt.ylabel('Count')
 plt.show()
 ```
 ### Collaboration
-Madison Bethke - madisonbethke25@gmai.com
-Weibin He - wayne.hwb@gmail.com
-Gursimran Kaur - kaursimran081999@gmail.com
-Omid Khan - omidk414@gmail.com
-Evan Wall - ewall@escoffier.edu
+Madison Bethke - madisonbethke25@gmail.com - MadisonBethke\
+Weibin He - wayne.hwb@gmail.com - dailynomore\
+Gursimran Kaur - kaursimran081999@gmail.com - SimranBoparai\
+Omid Khan - omidk414@gmail.com - omidk414\
+Evan Wall - ewall@escoffier.edu - Ewall24
 
 ### Acknowledgements
 Special thanks to the Elias, Brian and Karen for their guidance on the project.
